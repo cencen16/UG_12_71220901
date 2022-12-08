@@ -1,0 +1,6 @@
+print("~~~ Selamat Datang di kalkulator Sederhana")
+x = int(input("Masukkan operator matematika yang ingin Anda hitung: "))
+y = int(input("Mau penjumlahan berapa: "))
+z = int(input("Print berapa banyak: "))
+
+
