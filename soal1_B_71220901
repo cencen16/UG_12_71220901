@@ -1,0 +1,6 @@
+print ("SELAMAT DATANG DI PROGRAM PEMBUAT PIRAMIDA BERLUBANG")
+C = int(input("Masukkan Angka: "))
+print(' '*(C-1),"*")
+for y in range ((C-1),0,-1):
+    print(' '*(y-1),"**")
+print("**"*C)
